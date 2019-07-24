@@ -1,2 +1,3 @@
 # deploying-springboot-with-docker
-learn about how to deploy spring boot application with docker
+
+Learn about how to deploy **Spring Boot Application** with docker.
